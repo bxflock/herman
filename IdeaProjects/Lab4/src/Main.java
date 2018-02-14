@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class Main {
+    //a change added to the file
     public static void main(String args[]){
 
         Scanner scnr = new Scanner(System.in);
